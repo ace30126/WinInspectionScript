@@ -1,0 +1,7 @@
+﻿{
+    "CompareValue":  "0",
+    "Operator":  "greaterthan",
+    "item":  "HKLM:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\EnableLUA",
+    "type":  "registry",
+    "desc":  "UAC 활성화 여부 확인"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "CompareValue":  "40",
+    "Operator":  "GreaterThan",
+    "item":  "MaximumPasswordAge",
+    "type":  "security_policy",
+    "desc":  "패스워드최대기간의 설정"
+}
